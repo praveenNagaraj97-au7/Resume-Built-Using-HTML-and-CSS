@@ -1,0 +1,195 @@
+body{
+  background-color: #cbd6ce;
+}
+.top{
+  background-color: #dfb2eb;
+  text-align: center;
+  margin-top: -8px;
+  margin-left: -8px;
+  margin-right: -8px;
+  height: 700px;
+}
+.topimage{
+  height: 170px;
+}
+#lefttop{
+  position: relative;
+  bottom: -118px;
+  top: 39.517px;
+  right: 30%;
+}
+#righttop{
+  position: relative;
+
+  left: 30%;
+  top: 38.517px;
+}
+#Name{
+  font-family: 'Cookie', cursive;
+  font-size: 120px;
+  position: relative;
+  top: -115px;
+}
+#whatami{
+  font-family: 'Tangerine', cursive;
+  font-size: 55px;
+  position: relative;
+  bottom: 186px;
+  left: 95px;
+}
+#bottom{
+  position: relative;
+  top: -444px;
+  left: -283px
+}
+
+
+
+
+
+
+
+
+
+
+.middle{
+
+  text-align: center;
+  height: 300px;
+  width: 100%;
+
+}
+#Middleimg{
+  height: 135px;
+  width: 120px;
+  position: relative;
+  top: 87px;
+  right: 237px;
+}
+#hi{
+  color: purple;
+  margin-top: -46.567px;
+  font-family: 'Girassol', cursive;
+}
+#about{
+  margin-top: 1px;
+  position: absolute;
+  left: 40%;
+  font-family: 'Indie Flower', cursive
+}
+
+
+hr{
+  width: 155px;
+}
+
+
+
+
+
+
+
+
+.middle2{
+  height: 400px;
+  text-align: center;
+  position: relative;
+  bottom: -118px;
+  margin-bottom: 17px;
+  top: -22px;
+}
+
+#midh1{
+  margin-top: 56.433px;
+  color: purple;
+  font-family: 'Girassol', cursive;
+}
+#gif{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  right: 223px;
+}
+#Design{
+  margin-bottom: 11.917px;
+  margin-top: -138.083px;
+  margin-left: 300px;
+  color: grey;
+  font-family: 'Pacifico', cursive;
+}
+#DesignP{
+  margin-left: 300px;
+  font-family: 'Indie Flower', cursive
+}
+#gif2{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 284px;
+}
+#Design2{
+  margin-bottom: 22.917px;
+  margin-top: -126.083px;
+  margin-right: 182px;
+  color: grey;
+  font-family: 'Pacifico', cursive;
+}
+#DesignP2{
+  margin-bottom: 22.917px;
+  margin-top: -4.083px;
+  margin-right: 182px;
+  font-family: 'Indie Flower', cursive
+}
+
+
+
+
+
+
+.last{
+  height: 400px;
+  text-align: center;
+}
+#lasth1{
+  margin-top: 56.433px;
+  color: purple;
+  font-family: 'Girassol', cursive;
+}
+#lasth2{
+  color: grey;
+  font-family: 'Pacifico', cursive;
+}
+#lastp{
+  font-family: 'Indie Flower', cursive
+}
+#msgbtn{
+  background-color: skyblue;
+  padding: 10px 20px 10px 20px;
+  font-size: 35px;
+  font-family: 'Abril Fatface', cursive;
+}
+
+#msga{
+  text-decoration: none;
+  color: white;
+}
+
+footer{
+  text-align: center;
+  height: 100px;
+}
+#gitanchor{
+  position: relative;
+  left: 27px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: 'Tangerine', cursive;
+}
+#gitimg{
+  height: 25px;
+  position: absolute;
+  left: 589.717px;
+  top: 1957.87px;
+
+}
